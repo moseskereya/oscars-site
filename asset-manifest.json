@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oscars-site/static/css/main.e4306daf.chunk.css",
+    "main.js": "/oscars-site/static/js/main.b1fb9ef5.chunk.js",
+    "main.js.map": "/oscars-site/static/js/main.b1fb9ef5.chunk.js.map",
+    "runtime-main.js": "/oscars-site/static/js/runtime-main.3a67fba5.js",
+    "runtime-main.js.map": "/oscars-site/static/js/runtime-main.3a67fba5.js.map",
+    "static/js/2.e4385987.chunk.js": "/oscars-site/static/js/2.e4385987.chunk.js",
+    "static/js/2.e4385987.chunk.js.map": "/oscars-site/static/js/2.e4385987.chunk.js.map",
+    "index.html": "/oscars-site/index.html",
+    "precache-manifest.8f7cdff1b4ea6e8ff4eda45c356496c5.js": "/oscars-site/precache-manifest.8f7cdff1b4ea6e8ff4eda45c356496c5.js",
+    "service-worker.js": "/oscars-site/service-worker.js",
+    "static/css/main.e4306daf.chunk.css.map": "/oscars-site/static/css/main.e4306daf.chunk.css.map"
+  }
+}
